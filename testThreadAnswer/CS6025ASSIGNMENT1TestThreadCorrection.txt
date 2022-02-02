@@ -1,0 +1,65 @@
+Script started on 2022-02-02 13:23:15-05:00 [TERM="xterm-256color" TTY="/dev/pts/6" COLUMNS="116" LINES="26"]
+]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m htop[1Pzsh[K[K[Kjaca[K[Kvac Sum.java
+[?2004lSum.java:12: error: method getSum() is already defined in class Sum
+		public int getSum() {
+		           ^
+1 error
+]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m javac Sum.java
+[?2004l]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m javac Sum.javahtop[Kjavac Sum.javam.javaa.javat.javai.javao.javan.java
+[?2004lSummation.java:12: error: cannot find symbol
+						sum2 += (i*i);
+						         ^
+  symbol:   variable i
+  location: class Summation
+Summation.java:12: error: cannot find symbol
+						sum2 += (i*i);
+						           ^
+  symbol:   variable i
+  location: class Summation
+Summation.java:13: error: cannot find symbol
+						sum3 += (i*i*i);
+						         ^
+  symbol:   variable i
+  location: class Summation
+Summation.java:13: error: cannot find symbol
+						sum3 += (i*i*i);
+						           ^
+  symbol:   variable i
+  location: class Summation
+Summation.java:13: error: cannot find symbol
+						sum3 += (i*i*i);
+						             ^
+  symbol:   variable i
+  location: class Summation
+5 errors
+]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m javac Summation.java
+[?2004l]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m javac Summation.java[1P.java[1P.java[1P.java[1P.java[1P.java[1P.java[1P.java[1P.java[1P.javaD.javar.javai.javav.javae.javan.java[1P.javar.java
+[?2004l]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m v[Kjava[Ka Di[Kriver
+[?2004lUsage: Summation <integer value>
+]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m java Driver 1
+[?2004lThe sum of 1 is 1
+The sum of 1 raised to the second is 1
+The sum of 1 raised to the third is 1
+]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m java Driver 1[K2
+[?2004lThe sum of 2 is 3
+The sum of 2 raised to the second is 5
+The sum of 2 raised to the third is 3
+]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m java Driver 21[Kc Driver.java[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kce[K[Kecho Corrected mit[Ksti[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpg[Kublic getsu[K[KSum [K3 reti[Kurn sum instead of sum3. Corric[Ke[K[Kected and rerun
+[?2004lpublic getSum3 return sum instead of sum3. Corrected and rerun
+]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m echo public getSum3 return sum instead of sum3. Corrected and rerun[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjava Driver 2[K1[Kc Driver.javaSummation.java[6P.java
+[?2004l]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m javac Sum.javaecho public getSum3 return sum instead of sum3. Corrected and rerun[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjava Driver 2[K
+[?2004lThe sum of 2 is 3
+The sum of 2 raised to the second is 5
+The sum of 2 raised to the third is 9
+]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m java Driver 2[K3
+[?2004lThe sum of 3 is 6
+The sum of 3 raised to the second is 14
+The sum of 3 raised to the third is 36
+]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m java Driver 32c Sum.javaecho public getSum3 return sum instead of sum3. Corrected and rerun[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjava Driver 2[K1[Kc Driver.javaSummation.java[6P.java
+[?2004l]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m javac Sum.java[1P Driver 32c Sum.javaecho public getSum3 return sum instead of sum3. Corrected and rerun[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjava Driver 2[K1[Kc Driver.java
+[?2004l]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m javac Driver.java[3PSum.java[1P Driver 32c Sum.javaecho public getSum3 return sum instead of sum3. Corrected and rerun[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjava Driver 2[K1[Kc Driver.javaSummation.java
+[?2004l]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m javac Summation.java[3PDriver.java[3PSum.javaDriver.java
+[?2004l]0;mike@Desktop1:~/CS60251[?2004h(base) [01;32m[mike@Desktop1[01;37m CS60251[01;32m]$[00m exit
+[?2004lexit
+
+Script done on 2022-02-02 14:01:35-05:00 [COMMAND_EXIT_CODE="0"]
